@@ -1,0 +1,4 @@
+com/amst/theheroproject/MainActivity.java
+ com.amst.theheroproject.MainActivity
+com/amst/theheroproject/BuildConfig.java
+ com.amst.theheroproject.BuildConfig
